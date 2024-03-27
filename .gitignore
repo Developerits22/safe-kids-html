@@ -1,0 +1,19 @@
+# Ignore Node modules
+node_modules/
+
+# Ignore Tailwind CSS build output
+dist/
+
+# Ignore development server configuration files
+.env
+.env.local
+.env.*.local
+.env.test
+.env.production
+
+# Ignore temporary files
+.DS_Store
+
+# Ignore editor/IDE specific files
+.vscode/
+.idea/
